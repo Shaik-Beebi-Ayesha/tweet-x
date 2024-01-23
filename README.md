@@ -1,6 +1,5 @@
 <h1>TweetX Platform</h1>
     <p>TweetX is a platform inspired by Twitter that allows users to sign up, post short messages, follow other users, and view their feed.</p>
-
     <h2>Features</h2>
     <ul>
         <li><strong>User Authentication:</strong> Users can sign up and log in to their accounts.</li>

@@ -14,7 +14,7 @@
         <li><strong>State Management:</strong> Redux Toolkit for managing application state.</li>
         <li><strong>Backend:</strong> Firebase for serverless backend services.</li>
         <li><strong>Database:</strong> Firebase Realtime Database or Firestore for data storage.</li>
-        <li><strong>Deployment:</strong> The platform can be deployed to vercel for production.</li>
+        <li><strong>Deployment:</strong> The platform can be deployed to Netlify for production.</li>
     </ul>
     <br>
     <h2>Getting Started</h2>
@@ -25,7 +25,7 @@
             <ul>
                 <li>Create a Firebase project at <a href="https://console.firebase.google.com">Firebase Console</a>.</li>
                 <li>Set up Firebase authentication for user management.</li>
-                <li>Set up Firebase Realtime Database or Firestore for data storage.</li>
+                <li>Set up Firebase Realtime Database for data storage.</li>
                 <li>Update Firebase configuration in the project.</li>
             </ul>
         </li>

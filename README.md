@@ -7,7 +7,7 @@
         <li><strong>Post Viewing:</strong> Users can view their own posts and those of other users they follow.</li>
         <li><strong>User Following:</strong> Users can follow other users to see their posts in their feed.</li>
     </ul>
-
+    <br>
     <h2>Technologies Used</h2>
     <ul>
         <li><strong>Frontend:</strong> React with Tailwind CSS for styling.</li>
@@ -16,7 +16,7 @@
         <li><strong>Database:</strong> Firebase Realtime Database or Firestore for data storage.</li>
         <li><strong>Deployment:</strong> The platform can be deployed to vercel for production.</li>
     </ul>
-
+    <br>
     <h2>Getting Started</h2>
     <ol>
         <li>Clone the repository: <code>git clone https://github.com/your-username/tweetx-platform.git</code></li>
@@ -32,7 +32,7 @@
         <li>Start the development server: <code>npm start</code></li>
         <li>Open the application in your browser: <code>http://localhost:3000</code></li>
     </ol>
-
+    <br>
     <h2>Future Improvements</h2>
     <ul>
         <li><strong>User Profiles:</strong> Add user profiles with profile pictures and bio.</li>
@@ -40,9 +40,8 @@
         <li><strong>Notifications:</strong> Add notifications for new followers and post interactions.</li>
         <li><strong>Mobile App:</strong> Develop a mobile app version for better accessibility.</li>
     </ul>
-
+    <br>
     <h2>Contributing</h2>
     <p>Contributions are welcome! If you have ideas for improvements or find any issues, feel free to open a pull request or submit an issue.</p>
-
-    <h2>License</h2>
-    <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+    <br>
+    

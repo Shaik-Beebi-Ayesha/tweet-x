@@ -19,7 +19,7 @@
     <br>
     <h2>Getting Started</h2>
     <ol>
-        <li>Clone the repository: <code>git clone https://github.com/your-username/tweetx-platform.git</code></li>
+        <li>Clone the repository: <code>git clone https://github.com/Shaik-Beebi-Ayesha/tweet-x.git</code></li>
         <li>Install dependencies: <code>npm install</code></li>
         <li>Set up Firebase:
             <ul>
